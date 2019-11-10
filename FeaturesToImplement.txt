@@ -1,0 +1,22 @@
+There will be a buttonm to toggle between "look mode" and "play mode".
+"Look mode" will allow the player adjust the camera around the screen and choose different possible targets to lock on.
+Targets will have big enough target areas that the player can easily click on to lock target.
+Target players will also be listed and can be selected from the list to target.
+
+If a player kills an enemy on his turn, he gets an extra turn to try and position himself away from danger.
+
+Turns will be timed and failure to play within the time limit will mean you forfeit your turn.
+
+The classic battle royale mode will be scored like donkey kong arena battle. 
+Each time you kill an opponent, you gain a point. Each time you die, you loose a point.
+First person to a stipulated number of points wins.
+The game will be timed and if the clock runs out, the person with the highest points wins.
+You may have to kill everyone on the board at least once to win.
+
+When you die, you place your pen anywhere on the table you want.
+
+There will be adventure mode which will contain obstacle courses to complete.
+
+There will be ladder mode where you can play computer in a tournament.
+
+Design really creative and crazy tables
